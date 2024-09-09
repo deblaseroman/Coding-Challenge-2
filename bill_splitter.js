@@ -11,6 +11,10 @@ var tip;
     }
 
     let total = (bill + tip);
+
+    //"Implement and populate arrays for bills, tips, and totals"
+    let bills = [275, 40, 430];
+    const tips = bills.map(bill => calculateTip(bill));
 //Output Details
 console.log ("The bill was:", bill,"the tip was:", tip,"and the total value was:", total)
 
