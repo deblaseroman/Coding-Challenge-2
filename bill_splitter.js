@@ -1,4 +1,4 @@
-//creating the function
+//"Create and test calculateTip function"
 function calculateTip(bill){
 
 //Initial logic for calculating tip using ternary operator
