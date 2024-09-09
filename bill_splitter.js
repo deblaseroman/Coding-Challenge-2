@@ -11,4 +11,4 @@ let tip;
 
     let total = (bill + tip);
 //Output Details
-console.log ('The bill was'${bill}, 'the tip was' ${tip}'and the total value is' ${total});
+console.log 
